@@ -12,3 +12,7 @@ Current Weather Location App created in Android Studio
   4. Delhi
   5. Sydney
   6. Melbourne
+
+
+## Download Link: 
+https://www.mediafire.com/file/rq4iri7du5f9w2c/CurrentWeatherLocationApp.apk/file
